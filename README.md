@@ -40,5 +40,8 @@ Check QEMU installation:
     git clone https://git.busybox.net/buildroot
     cd buildroot
 
+```
+**2.. Configure for QEMU ARM board**
+` make qemu_arm_versatile_defconfig `
 
 
