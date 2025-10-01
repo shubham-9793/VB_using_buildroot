@@ -1,7 +1,7 @@
 # VB_using_buildroot
 This repository provides a minimal embedded Linux system built using Buildroot, and tested on QEMU (ARM VersatilePB board). It includes ready-to-use scripts to quickly launch a virtual embedded Linux environment for learning, testing, and development.
 
-## 📌 Overview
+### 📌 Overview
 
 This project demonstrates how to build and run an embedded Linux system using:
 
@@ -11,7 +11,7 @@ This project demonstrates how to build and run an embedded Linux system using:
 
 It provides a step-by-step script to quickly boot Linux in a virtual ARM machine without physical hardware.
 
-## 🔑 Why this repo is useful?
+### 🔑 Why this repo is useful?
 
 Learn embedded Linux basics (kernel, rootfs, init system)
 
@@ -19,4 +19,13 @@ Practice cross-compilation and toolchains
 
 Test applications in QEMU before deploying to real hardware
 
-Prepare for interviews or embedded projects
+Prepare for interviews or embedded projects.
+
+
+### 🧑‍💻 Prerequisites
+
+Make sure your host system has these installed:
+
+``` sudo apt update ```
+``` sudo apt install git build-essential qemu-system-arm unzip ```
+
