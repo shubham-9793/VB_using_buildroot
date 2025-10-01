@@ -33,4 +33,11 @@ Check QEMU installation:
 
 `qemu-system-arm --version`
 
+### ⚙️ Building Embedded Linux with Buildroot
+
+**1.. Clone Buildroot**
+```git clone https://git.busybox.net/buildroot
+   cd buildroot```
+
+
 
