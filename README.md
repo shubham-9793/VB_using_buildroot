@@ -36,8 +36,8 @@ Check QEMU installation:
 ### ⚙️ Building Embedded Linux with Buildroot
 
 **1.. Clone Buildroot**
-```git clone https://git.busybox.net/buildroot
-   cd buildroot```
+``git clone https://git.busybox.net/buildroot
+    cd buildroot
 
 
 
