@@ -29,3 +29,7 @@ Make sure your host system has these installed:
 ``` sudo apt update ```
 ``` sudo apt install git build-essential qemu-system-arm unzip ```
 
+Check QEMU installation:
+`qemu-system-arm --version
+
+
